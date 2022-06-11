@@ -7,7 +7,8 @@ The aim of this training series is to teach you the most basic features of the G
 
 Sections;
 
-* Building a Web Server in GO
+* <a href="https://github.com/omrcm/go-tutorial/tree/main/hello.web" target="_blank">
+    Building a Web Server in GO </a>
 * How can we declar variables in Go
 * Numeric Variablers in GO
 * Strings, Runes and Arrays in Go
