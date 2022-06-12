@@ -22,10 +22,7 @@ func main() {
 		rune        alias for int32
 
 		Please check the images uploaded in this folder.
-		The most imported thing to note in Go is;
-		* You can't use variables of different numeric types together with out explicitly converting
-		  their types to match. IF we want to sum a int8 with float 32 Go will give us;
-		  "mismatch types int8 and float32". We have to fix it with type conversion
+
 	*/
 	var i int8 = 8
 	var j int8 = 10
