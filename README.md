@@ -9,6 +9,7 @@ Sections;
 
 * <a href="https://github.com/omrcm/go-tutorial/tree/main/hello.web">
     Building a Web Server in GO </a>
-* <a href="">How can we declar variables in Go</a>
+* <a href="https://github.com/omrcm/go-tutorial/tree/main/define.variables">
+    How can we define variables in Go</a>
 * <a href="">Numeric Variablers in GO</a>
 * <a href="">Strings, Runes and Arrays in Go</a>
