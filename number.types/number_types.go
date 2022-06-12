@@ -48,6 +48,9 @@ func main() {
 
 	var s = 10
 
-	//fmt.Println(s)
+	/*
+		if we remove the code on line 54 Go will give us compilation error
+	*/
+	fmt.Println(s)
 
 }
