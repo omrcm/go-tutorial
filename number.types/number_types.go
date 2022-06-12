@@ -8,9 +8,7 @@ func main() {
 		There are a few important issues we need to know before moving on to the definitions.
 		1) When we define a variable we have to use it.
 		2) Default all parameters will be assiged 0
-	*/
 
-	/*
 		Declaring with var keyword.
 		We don't have to define the type of the variable.
 		After the first assign Go will automatically detect the type
@@ -34,8 +32,6 @@ func main() {
 
 		2)  We don't always want to use the type the compiler differs from the right hand side of the equal sign
 
-	*/
-	/*
 		This is a example for why we use the "var" keyword to define a variable
 	*/
 	var c int
@@ -45,9 +41,7 @@ func main() {
 
 	/*
 		When we run above code, it'll print first 0 and then 10.
-	*/
 
-	/*
 		If you declare a variable, you must use it,any variables that are declared but never actually used
 		will trigger a compilation error
 	*/
